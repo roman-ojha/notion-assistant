@@ -40,5 +40,22 @@
       "json",
       "node"
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/roman-ojha/notion-assistant.git"
+  },
+  "keywords": [
+    "express",
+    "react-native",
+    "assistant",
+    "notion",
+    "notion-api"
+  ],
+  "author": "roman-ojha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roman-ojha/notion-assistant/issues"
+  },
+  "homepage": "https://github.com/roman-ojha/notion-assistant#readme"
 }
