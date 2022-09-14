@@ -1,6 +1,6 @@
 {
-    "name": "dsavisualizer",
-    "short_name": "dsavisualizer",
+    "name": "notioner",
+    "short_name": "notioner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

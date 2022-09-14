@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.roman" "\0"
-            VALUE "FileDescription", "dsavisualizer" "\0"
+            VALUE "FileDescription", "notioner" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "dsavisualizer" "\0"
+            VALUE "InternalName", "notioner" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2022 com.roman. All rights reserved." "\0"
-            VALUE "OriginalFilename", "dsavisualizer.exe" "\0"
-            VALUE "ProductName", "dsavisualizer" "\0"
+            VALUE "OriginalFilename", "notioner.exe" "\0"
+            VALUE "ProductName", "notioner" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

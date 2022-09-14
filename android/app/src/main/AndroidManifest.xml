@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.roman.dsavisualizer">
+    package="com.roman.notioner">
    <application
-        android:label="dsavisualizer"
+        android:label="notioner"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
